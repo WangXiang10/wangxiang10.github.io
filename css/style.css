@@ -4927,8 +4927,8 @@ height:100%;
 .paper_title{
 	font-size:16px;
 	font-weight:520;
-	color:#000;
-	margin-bottom:8px;
+	color:#272727;
+	margin-bottom:4px;
 
 }
 
@@ -4937,19 +4937,19 @@ height:100%;
 
 	color:#727272;
 	
-	margin-bottom:3px;
+	margin-bottom:2px;
 
 }
 
 .paper_info strong{
 	font-weight: 520;
-	color:#000;
+	color:#272727;
 }
 
 .bigspace{
 	float: left;
 	width: 100%;
-	margin: 10px 0px 10px 0px;
+	margin: 6px 0px 6px 0px;
 }
 
 .newscontent p  img{
